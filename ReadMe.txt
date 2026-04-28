@@ -14,7 +14,7 @@ Turbulent Plasma  - T5Adv
 Conventional - base
 Laser - Base Damage, Aim Bonus, Unlimited Ammo
 Magnetic - more upgrade slots
-Coil - limited Ammo, good damage, chance to stun for 1 action, triple magazine, pierce
+Coil - limited Ammo, good damage, chance to stun for 1 action, pierce
 Beam - earlier possible, lower damage, crits can blind
 Plasma - good damage, burning, shred
 Improved Laser - pierce, unlimited ammo, damage like magnetic
@@ -24,3 +24,7 @@ Sonic - good damage, high rupture, not buildable
 -----------------------------------------------
 Cannons shred
 Sniper pierce
+
+#### To Do
+Battle Rifles
+Strike Rifles

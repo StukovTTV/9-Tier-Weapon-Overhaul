@@ -1,0 +1,11 @@
+[Reward_SKV_AdventWeapons_Mission X2RewardTemplate_SSP]
+DisplayName="Salvage Advent Weapons Mission"
+
+[Reward_SKV_DestinyWeapons_Mission X2RewardTemplate_SSP]
+DisplayName="Salvage Destiny Weapons Mission"
+
+[Reward_SKV_Upgrades_Mission X2RewardTemplate_SSP]
+DisplayName="Salvage Mysterious Upgrades Mission"
+
+[Reward_SkvCorpses_Mission X2RewardTemplate_SSP]
+DisplayName="Salvage Corpses Mission"
